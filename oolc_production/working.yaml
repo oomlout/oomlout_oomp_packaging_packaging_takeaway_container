@@ -6,6 +6,10 @@ production_format:
     file_location: source_files/oomlout_oomp_packaging_packaging_takeaway_container_tileable_1_oobb_base.cdr
     width: 179 mm
     height: 134 mm
+  tileable_1_jig_side_hole_cutting:
+    file_location: source_files/oomlout_oomp_packaging_packaging_takeaway_container_tileable_1_jig_side_hole_cutting.cdr
+    width: 179 mm
+    height: 134 mm    
   
   
   
