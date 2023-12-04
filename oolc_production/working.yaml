@@ -2,7 +2,7 @@ project_id: oomlout_oomp_packaging_packaging_takeaway_container
 project_name: "Takeaway Container"
 project_repo: https://github.com/oomlout/oomlout_oomp_packaging_packaging_takeaway_container
 production_format:
-  tileable_1_rudebekia:
+  tileable_1_oobb_base:
     file_location: source_files/oomlout_oomp_packaging_packaging_takeaway_container_tileable_1_oobb_base.cdr
     width: 179 mm
     height: 134 mm
