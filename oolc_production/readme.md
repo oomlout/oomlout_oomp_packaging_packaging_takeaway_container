@@ -20,3 +20,12 @@
 * thickness:   
 * material:   
  
+
+### tileable_2_oobb_takeaway_container_hole_jig
+* link: [/tileable_2_oobb_takeaway_container_hole_jig](tileable_2_oobb_takeaway_container_hole_jig)  
+![](tileable_2_oobb_takeaway_container_hole_jig/working_300.png)  
+* width: 168 mm  
+* height: 117 mm  
+* thickness:   
+* material:   
+ 
