@@ -9,7 +9,12 @@ production_format:
   tileable_1_jig_side_hole_cutting:
     file_location: source_files/oomlout_oomp_packaging_packaging_takeaway_container_tileable_1_jig_side_hole_cutting.cdr
     width: 179 mm
-    height: 134 mm    
+    height: 134 mm 
+  tileable_2_oobb_takeaway_container_hole_jig:
+    file_location: oomlout_oomp_packaging_packaging_takeaway_container_tileable_1_oobb_takeaway_container_hole_jig.cdr
+    width: 168 mm
+    height: 117 mm
+
   
   
   
